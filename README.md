@@ -1,2 +1,2 @@
 # gitman
-h
+hi this is my first repository
